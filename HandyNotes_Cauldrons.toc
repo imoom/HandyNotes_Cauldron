@@ -1,0 +1,15 @@
+## Interface: 80100
+## Title: HandyNotes: Cauldrons
+## Notes: Where are the Alchemy Master Tool Cauldrons?
+## Author: Apotekarnes
+## Version: 1
+## DefaultState: enabled
+## X-Category: Map
+## X-eMail: 
+## SavedVariables: HandyNotes_CauldronsDB
+## RequiredDeps: HandyNotes
+## Credit: Kemayo
+
+handler.lua
+config.lua
+Cauldron.lua
