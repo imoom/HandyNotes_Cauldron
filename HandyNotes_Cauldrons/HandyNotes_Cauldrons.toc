@@ -1,8 +1,8 @@
 ## Interface: 80100
 ## Title: HandyNotes: Cauldrons
 ## Notes: Where are the Alchemy Master Tool Cauldrons?
-## Author: Apotekarnes
-## Version: 1
+## Author: Imoom
+## Version: 1.0.1
 ## DefaultState: enabled
 ## X-Category: Map
 ## X-eMail: 
