@@ -1,7 +1,7 @@
 # Changelog
 
 ## Changed in v1.0.1
-* Minor uppates
+* Minor updates
 
 ## Changed in v1.0.0
 * Created points from wowhead
