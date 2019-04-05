@@ -78,6 +78,7 @@ ns.points = {
         [57006400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
     },
     [895] = { -- Tiragarde Sound
+        [38742186] = {["label"] = "Boiling Cauldron Entrance", ["cont"] = true,},
         [53003400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [55006700] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [58001400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
@@ -85,6 +86,7 @@ ns.points = {
         [67001800] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [76268262] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [85007500] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        
     },
     [896] = { -- Drustvar
         [19265426] = {["label"] = "Boiling Cauldron, bugged?", ["cont"] = true,},
@@ -102,7 +104,7 @@ ns.points = {
     },
     [942] = { -- Stormsong Valley
         [22007300] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [29007500] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [29227589] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [37005300] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [48006600] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [50005600] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
