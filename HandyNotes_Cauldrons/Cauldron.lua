@@ -84,6 +84,7 @@ ns.points = {
         [61006100] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [67001800] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [85007500] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [76268262] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
     },
     [896] = { -- Drustvar
         [19265426] = {["label"] = "Boiling Cauldron, bugged?", ["cont"] = true,},
