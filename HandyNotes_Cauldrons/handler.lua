@@ -132,6 +132,20 @@ function HLHandler:OnEnter(uiMapID, coord)
     handle_tooltip_by_coord(tooltip, uiMapID, coord)
 end
 
+local function createWaypointBulk(button, uiMapID)
+    if TomTom then
+        for coord, v in pairs(ns.points[uiMapID]) do
+            local x, y = HandyNotes:getXY(coord)
+            TomTom:AddWaypoint(uiMapID, x, y, {
+                title = get_point_info_by_coord(uiMapID, coord),
+                persistent = nil,
+                minimap = true,
+                world = true
+            })
+        end
+    end
+end
+
 local function createWaypoint(button, uiMapID, coord)
     if TomTom then
         local x, y = HandyNotes:getXY(coord)
@@ -173,6 +187,13 @@ do
                 info.func = createWaypoint
                 info.arg1 = currentZone
                 info.arg2 = currentCoord
+                UIDropDownMenu_AddButton(info, level)
+                wipe(info)
+
+                info.text = "Create waypoint for all cauldrons in zone"
+                info.notCheckable = 1
+                info.func = createWaypointBulk
+                info.arg1 = currentZone
                 UIDropDownMenu_AddButton(info, level)
                 wipe(info)
             end
