@@ -1,5 +1,9 @@
 # Changelog
 
+## Changed in v2.0.0
+* New function, create tomtom waypoint for all cauldrons in zone
+* Spawnspot added
+
 ## Changed in v1.1.0
 * Spawnspots added/updated
 
