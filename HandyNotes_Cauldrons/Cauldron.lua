@@ -93,13 +93,13 @@ ns.points = {
         
     },
     [896] = { -- Drustvar
-        [19265426] = {["label"] = "Boiling Cauldron, bugged?", ["cont"] = true,},
+        --[19265426] = {["label"] = "Boiling Cauldron, bugged?", ["cont"] = true,},
         [24605690] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [24953718] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [29752758] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [30805010] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [31211734] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [33255758] = {["label"] = "Boiling Cauldron, bugged?", ["cont"] = true,},
+        --[33255758] = {["label"] = "Boiling Cauldron, bugged?", ["cont"] = true,},
         [51262126] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [56193815] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [57872355] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
@@ -114,6 +114,7 @@ ns.points = {
         [50005600] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [59004100] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [67006000] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [76592831] = {["label"] = "Boiling Cauldron", ["cont"] = true,},      
     },
     [1183] = { -- Thornheart
     },
