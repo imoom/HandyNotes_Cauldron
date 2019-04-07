@@ -47,7 +47,7 @@ ns.points = {
     [862] = { -- Zuldazar
         [43007400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [45002500] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [49003900] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [49883970] = {["label"] = "Boiling Cauldron", ["cont"] = true,}, -- verified
         [54009000] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [59007700] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [64002900] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
