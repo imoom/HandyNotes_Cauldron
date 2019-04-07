@@ -47,35 +47,38 @@ ns.points = {
     [862] = { -- Zuldazar
         [43007400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [45002500] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [49883970] = {["label"] = "Boiling Cauldron", ["cont"] = true,}, -- verified
+        [49883970] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [54009000] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [59007700] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [64002900] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [67001700] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [70006200] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [73002600] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [83643917] = {["label"] = "Boiling Cauldron", ["cont"] = true,}, -- verified
+        [73712645] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [83643917] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
     },
 
     [863] = { -- Nazmir
         [33006700] = {["label"] = "Boiling Cauldron, Entrance", ["cont"] = true,},
         [38005100] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [40006300] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [41002800] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [41802879] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [46004900] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [53427079] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [63005900] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [76003600] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
     },
     [864] = { -- Vol'dun
-        [34817984] = {["label"] = "Boiling Cauldron", ["cont"] = true,},--verified
+        [30035312] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [34817984] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [37008900] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [40007500] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [41002800] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [43003400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [47004600] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [49007800] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [48106702] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [49197804] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [57006400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        
     },
     [895] = { -- Tiragarde Sound
         [38742186] = {["label"] = "Boiling Cauldron Entrance", ["cont"] = true,},
