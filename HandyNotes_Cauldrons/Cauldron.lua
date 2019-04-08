@@ -48,13 +48,14 @@ ns.points = {
         [43007400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [45002500] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [49883970] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [54009000] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [54609063] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [59007700] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [64002900] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [67001700] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [70006200] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [73712645] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [83643917] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        
     },
 
     [863] = { -- Nazmir
