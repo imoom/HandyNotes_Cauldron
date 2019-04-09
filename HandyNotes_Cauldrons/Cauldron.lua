@@ -77,11 +77,11 @@ ns.points = {
         [37008900] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [40007500] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [41002800] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [43003400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [43753430] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [47004600] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [48106702] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [49197804] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [57006400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},  
+        [57006400] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
     },
 
     [895] = { -- Tiragarde Sound
