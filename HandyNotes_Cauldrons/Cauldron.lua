@@ -60,6 +60,7 @@ ns.points = {
     [863] = { -- Nazmir
         [20546109] = {["label"] = "Boiling Cauldron", ["cont"] = true,},    
         [33006700] = {["label"] = "Boiling Cauldron, Entrance", ["cont"] = true,},
+        [34098598] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [38005100] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [40006300] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [41802879] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
@@ -67,7 +68,7 @@ ns.points = {
         [53427079] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [55615682] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [63005900] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [76003600] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
+        [76003600] = {["label"] = "Boiling Cauldron", ["cont"] = true,}, 
     },
     [864] = { -- Vol'dun
         [30035312] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
