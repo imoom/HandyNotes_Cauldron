@@ -119,7 +119,8 @@ ns.points = {
         [50005600] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [59004100] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
         [67006000] = {["label"] = "Boiling Cauldron", ["cont"] = true,},
-        [76592831] = {["label"] = "Boiling Cauldron", ["cont"] = true,},      
+        [76592831] = {["label"] = "Boiling Cauldron", ["cont"] = true,},  
+        [78965482] = {["label"] = "Boiling Cauldron", ["cont"] = true,},      
     },
     [1183] = { -- Thornheart
     },
