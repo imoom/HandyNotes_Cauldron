@@ -1,5 +1,8 @@
 # Changelog
 
+## Changed in v2.3.0
+* Spawnspot added
+
 ## Changed in v2.2.0
 * Spawnspots added
 
